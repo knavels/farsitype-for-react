@@ -1,4 +1,5 @@
-import React from 'react';
+// Originally by http://www.farsitype.ir/
+// renewed and tuned (redeveloped) by Navid Dezashibi (Knavels)
 
 export const FarsiType = {
     // Farsi keyboard map based on Iran Popular Keyboard Layout
