@@ -1,6 +1,6 @@
 # farsitype-for-react
 old FarsiType.js for react with onChange support
-originally created by: https://farsitype.ir
+originally created by: http://www.farsitype.ir
 
 retuned and optimized plus fixed some issues for react by Navid Dezashibi (Knavels)
 
